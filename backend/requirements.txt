@@ -1,6 +1,0 @@
-Flask
-Flask-CORS
-python-dotenv
-pymongo
-opencv-python
-Werkzeug
